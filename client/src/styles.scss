@@ -4,12 +4,16 @@ html,
 body,
 #root,
 .App {
+  background-color: grayscale($color: #c78bc9);
   width: 100%;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
+ 
+  margin: auto;
 
+
+}
+h1{
+  text-align: center;
+}
 .App {
   font-family: "Montserrat", sans-serif;
   text-align: center;
